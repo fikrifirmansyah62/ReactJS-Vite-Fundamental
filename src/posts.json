@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Tutorial",
+    "tags": ["react", "Frontend"],
+    "date": "2023-10-11",
+    "isNew": true
+  },
+  {
+    "title": "meningkatkan performa",
+    "tags": ["react", "Frontend"],
+    "date": "2023-10-12",
+    "isNew": false
+  },
+  {
+    "title": "cara menggunakan chakra-ui",
+    "tags": ["react", "Frontend"],
+    "date": "2023-10-13",
+    "isNew": true
+  }
+]
